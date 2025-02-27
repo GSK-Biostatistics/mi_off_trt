@@ -1,0 +1,1 @@
+Example code from the publication: Hartley B, Drury T, Lettis S, Mayer B, Keene ON, Abellan JJ. Estimation of a treatment policy estimand for time to event data using data collected post discontinuation of randomised treatment. Pharmaceutical Statistics. 2022; 21(3): 612-624. doi:10.1002/pst.2189
