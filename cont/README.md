@@ -1,5 +1,3 @@
 ### Read Me
 
-This is a placeholder for putting the example code for the publication submitted to Pharmaceutical Statistics.
-
-Drury T, Abellan JA, Best N, White IR. (2023) Estimation of treatment policy estimands for continuous outcomes using off treatment sequential multiple imputation. PharmStats - Submitted.
+Code and selected output for the publication: Drury, T., Abellan, J.J., Best, N. and White, I.R. (2024), Estimation of Treatment Policy Estimands for Continuous Outcomes Using Off-Treatment Sequential Multiple Imputation. Pharmaceutical Statistics, 23: 1144-1155. https://doi.org/10.1002/pst.2411
